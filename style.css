@@ -702,3 +702,9 @@ footer span a:hover{
         font-size: 27px;
     }
 }
+@media (max-width: 425px){
+    .project .title::after{
+        content: "";
+        background: none;
+    }
+}
