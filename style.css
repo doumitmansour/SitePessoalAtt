@@ -382,10 +382,10 @@ content: "Quem sou eu";
     width: 52%;
 }
 .skills .skills-content .right .mysql::before{
-    width: 67%;
+    width: 80%;
 }
 .skills .skills-content .right .py::before{
-    width: 50%;
+    width: 85%;
 }
 .skills .skills-content .right .office::before{
     width: 93%;
