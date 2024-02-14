@@ -15,14 +15,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings:["Estudante de T.I", "Desenvolvedor", "Web Designer"],
+        strings:["Estudante de T.I", "Desenvolvedor","Data Analyst", "Web Designer","Data Scientist"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
     });
 
     var typed = new Typed(".typing-2", {
-        strings:["Estudante de T.I", "Desenvolvedor", "Web Designer"],
+        strings:["Estudante de T.I", "Desenvolvedor","Data Analyst", "Web Designer","Data Scientist"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
